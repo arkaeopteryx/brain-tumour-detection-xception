@@ -1,0 +1,30 @@
+# Ignore Colab & system stuff
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Model weights and large files
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.pth
+*.pt
+
+# Logs and outputs
+logs/
+*.log
+*.csv
+
+# Datasets and zip files
+*.zip
+*.tar.gz
+*.rar
+
+# Environment and config files
+.env
+*.ini
+
+# Jupyter Notebook checkpoints
+*.checkpoint
