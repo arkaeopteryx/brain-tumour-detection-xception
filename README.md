@@ -1,3 +1,9 @@
+---
+title: Detect_Brain_Tumours_From_MRI_scans_by_Ark_Abhyudaya
+app_file: app.py
+sdk: gradio
+sdk_version: 5.23.3
+---
 %%writefile README.md
 # Brain Tumor Detection using Xception
 
